@@ -60,8 +60,8 @@
 > **Quiero** reportar incidentes (fallas, accidentes o retrasos) desde la aplicación  
 > **Para** que el sistema active automáticamente un protocolo de emergencia y notifique al equipo interno.
 
-### **HU-09: Monitoreo GPS** *(RF11)*
-**Cobertura:** Backend ✅ | Frontend ✅
+### **HU-09: Monitoreo GPS** *(RF11)* PARCIALMENTE
+**Cobertura:** Backend  | Frontend 
 > **Como** Administrador o Despachador  
 > **Quiero** monitorear la ubicación de los viajes en curso  
 > **Para** saber exactamente dónde está la carga y reaccionar ante desviaciones.
@@ -96,8 +96,8 @@
 
 ## ⭐ Épica 6: Experiencia del Cliente
 
-### **HU-13: Consulta y Notificaciones** *(RF22, RF23)*
-**Cobertura:** Backend ✅ | Frontend ✅
+### **HU-13: Consulta y Notificaciones** *(RF22, RF23)*  PARCIALMENTE
+**Cobertura:** Backend  | Frontend 
 > **Como** Cliente  
 > **Quiero** consultar el estado de mi envío y recibir notificaciones automáticas cuando este cambie  
 > **Para** estar informado sobre la hora estimada de llegada de mi mercancía sin tener que llamar a la empresa.
@@ -106,8 +106,8 @@
 
 ## 📊 Épica 7: Analítica y Reportes
 
-### **HU-14: Estadísticas Logísticas** *(RF24, RF25, RF26)*
-**Cobertura:** Backend ✅ | Frontend ✅
+### **HU-14: Estadísticas Logísticas** *(RF24, RF25, RF26)* PARCIALMENTE
+**Cobertura:** Backend  | Frontend 
 > **Como** Administrador  
 > **Quiero** generar reportes mensuales sobre consumo de combustible, rentabilidad de rutas y cumplimiento de tiempos  
 > **Para** identificar ineficiencias y optimizar la operación logística del negocio.
